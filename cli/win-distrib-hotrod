@@ -1,0 +1,2 @@
+startServer.bat -r hotrod -c distributed-cache.xml -p 11222
+startServer.bat -r hotrod -c distributed-cache.xml -p 11223
